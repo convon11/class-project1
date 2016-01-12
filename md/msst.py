@@ -1,3 +1,4 @@
+import favorits()
 def gadge():
   pass
 def brooklin():
@@ -10,3 +11,16 @@ def jessica():
   pass
 def terza():
   pass
+def lauren():
+  pass
+def camden():
+  pass
+def dezia():
+  pass
+def danny():
+  pass
+def cecily():
+  pass
+def jacki():
+  pass
+def 
